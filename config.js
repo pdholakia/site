@@ -28,12 +28,12 @@ module.exports = {
   ],
   author: {
     name: 'Pratik Dholakia',
-    photo: '/media/me.png',
+    photo: '/me.png',
     bio: '',
     contacts: {
-      linkedin: 'https://www.linkedin.com/in/pratikdholakia/',
-      twitter: 'https://twitter.com/pratikdholakia',
-      github: 'https://github.com/pdholakia'
+      linkedin: 'pratikdholakia',
+      twitter: 'pratikdholakia',
+      github: 'pdholakia'
     }
   }
 };
