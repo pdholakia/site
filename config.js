@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://p.dholakia.me',
-  title: 'pdholakia',
+  title: 'Pratik Dholakia',
   subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
