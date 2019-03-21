@@ -1,18 +1,22 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://p.dholakia.me',
+  title: 'pdholakia',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   menu: [
     {
       label: 'Articles',
       path: '/'
-    },
+    },  
+    {
+      label: 'Projects',
+      path: '/pages/projects'
+    },    
     {
       label: 'About me',
       path: '/pages/about'
@@ -23,16 +27,13 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Pratik Dholakia',
+    photo: '/media/me.png',
+    bio: '',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      linkedin: 'https://www.linkedin.com/in/pratikdholakia/',
+      twitter: 'https://twitter.com/pratikdholakia',
+      github: 'https://github.com/pdholakia'
     }
   }
 };
