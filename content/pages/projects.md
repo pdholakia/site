@@ -1,6 +1,6 @@
 ---
 template: page
-title: Side Projects
+title: Projects
 slug: /pages/projects
 draft: false
 ---
