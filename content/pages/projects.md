@@ -1,8 +1,8 @@
 ---
 template: page
 title: Side Projects
-slug: projects
-draft: true
+slug: /pages/projects
+draft: false
 ---
 
 TBU
