@@ -10,6 +10,10 @@ module.exports = {
   googleAnalyticsId: '',
   menu: [ 
     {
+      label: 'Posts',
+      path: '/'
+    },     
+    {
       label: 'Projects',
       path: '/pages/projects'
     },    
