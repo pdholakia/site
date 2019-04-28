@@ -12,11 +12,7 @@ module.exports = {
     {
       label: 'Posts',
       path: '/'
-    },     
-    {
-      label: 'Projects',
-      path: '/pages/projects'
-    },    
+    },   
     {
       label: 'About me',
       path: '/pages/about'
