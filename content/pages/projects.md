@@ -7,8 +7,9 @@ draft: false
 
 ## **QuoteBee.io**
 
-**[Website](https://quotebee.io)**
-**[Documentation](https://help.quotebee.io)**
+[Website](https://quotebee.io)
+
+[Documentation](https://help.quotebee.io)
 
 QuoteBee.io is a Configure, Price, Quote (CPQ) built for use with Google Docs to help you prepare accurate and professional sales quotes, quickly.
 
@@ -26,6 +27,7 @@ QuoteBee.io is a Configure, Price, Quote (CPQ) built for use with Google Docs to
 ## Social Slides
 
 [Website](https://socialslides.net)
+
 [Documentation](https://help.socialslides.net)
 
 Social Slide is a Google Slides Add-on to help you create beautiful designs and share it without ever leaving Google Slides with Buffer.com integration.
