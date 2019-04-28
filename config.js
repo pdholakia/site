@@ -8,11 +8,7 @@ module.exports = {
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: '',
-  menu: [
-    {
-      label: 'Articles',
-      path: '/'
-    },  
+  menu: [ 
     {
       label: 'Projects',
       path: '/pages/projects'
