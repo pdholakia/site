@@ -26,7 +26,8 @@ QuoteBee.io is a Configure, Price, Quote (CPQ) built for use with Google Docs to
 * Connect to QuickBooks: add products to quote and convert proposals in Google Docs to invoice in QuickBooks
 * Catalog management with the grouping of related items
 * Prepare accurate quote pricing tables with WYSIWYG pricing table editor
-* Automatic discount and tax calculations* Content Library to quickly add reusable proposal content
+* Automatic discount and tax calculations
+* Content Library to quickly add reusable proposal content
 * Quote templates support with tags to quickly replace customer-specific details
 * Theme options for consistent branding
 
