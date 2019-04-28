@@ -4,12 +4,16 @@ title: Side Projects
 slug: /posts/projects
 draft: false
 date: 2018-12-13T13:58:08.353Z
-description: Describes side projects.
+description: >-
+  QuoteBee.io is a Configure, Price, Quote (CPQ) built for use with Google Docs
+  to help you prepare accurate and professional sales quotes, quickly.
 category: Projects
 tags:
   - Projects
 ---
 ## **QuoteBee.io**
+
+![QuoteBee.io](/media/quotebee2.png)
 
 [Website](https://quotebee.io)
 
@@ -29,6 +33,8 @@ QuoteBee.io is a Configure, Price, Quote (CPQ) built for use with Google Docs to
 - - -
 
 ## Social Slides
+
+![SocialSlides.net](/media/socialslides2.png)
 
 [Website](https://socialslides.net)
 
